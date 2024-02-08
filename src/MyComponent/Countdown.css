@@ -1,0 +1,42 @@
+.countdown-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.countdown-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+.input-label {
+  font-size: 18px;
+}
+
+.input-field {
+  padding: 5px 10px;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.start-stop-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.start-stop-button:hover {
+  background-color: #0056b3;
+}
+
+.current-time {
+  font-size: 20px;
+  margin-top: 20px;
+}
